@@ -1,2 +1,4 @@
 # BaiduAIforUnity
-百度aip制作的Unity样例演示
+百度api在Unity中使用demo演示
+
+demo完成时间为2020年5月，其中部分图片涉及隐私已删除
